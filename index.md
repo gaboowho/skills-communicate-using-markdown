@@ -9,3 +9,5 @@ welcome = "Hello friend."
 
 print(welcome)
 ```
+- [ ] Continue with this course
+- [ ] Finish the Github skills
